@@ -1,0 +1,16 @@
+using System;
+class Demo
+{
+	// TO CHECK TYPE OF PRAMOTION
+	public static void Percent(int a , int b)
+	{
+		
+		Console.Write("Enter Any Number : ");
+		
+	
+	}
+	public static void Main(string [] a)
+	{
+		Percent( 100 , 'A');
+	}
+}
